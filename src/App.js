@@ -1,10 +1,7 @@
-import React, { useContext } from "react";
+import React from "react";
 
-// import GlobalStyle from "./styles/global";
-// import Layout from "./components/Layout";
 import { ThemeProvider as ThemeProviderContext } from "./contexts/ThemeProvider";
-// import { ThemeProvider } from "styled-components";
-import Styles from "./components/styles";
+import Styles from "./components/childrenContext";
 
 function App() {
   return (

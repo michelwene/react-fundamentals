@@ -1,5 +1,5 @@
 import React from "react";
-import { ThemeProvider, useTheme } from "../../contexts/ThemeProvider";
+import { useTheme } from "../../contexts/ThemeProvider";
 
 import { Container } from "./styles";
 
