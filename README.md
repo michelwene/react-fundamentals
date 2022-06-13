@@ -27,6 +27,11 @@ Os usuários devem ser capazes de:
  <img src='/public/assets/Desktop.png' alt=' Desktop'>
 </p>
 
+- ContextApi
+<p  align="center" >
+ <img src='/public/assets/kod.png' alt='ContextApi'>
+</p>
+
 ## :page_with_curl: Meu processo
 
 ### Construído com
